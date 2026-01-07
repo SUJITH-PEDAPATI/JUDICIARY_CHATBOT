@@ -1,2 +1,5 @@
 google-genai
 streamlit
+google
+os
+dotenv
